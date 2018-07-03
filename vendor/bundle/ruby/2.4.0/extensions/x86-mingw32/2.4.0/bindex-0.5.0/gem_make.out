@@ -1,0 +1,16 @@
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+C:/Ruby24/bin/ruby.exe -r ./siteconf20180703-13756-o869wr.rb extconf.rb
+creating Makefile
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+generating cruby-i386-mingw32.def
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20180703-13756-1hfwim5/bindex

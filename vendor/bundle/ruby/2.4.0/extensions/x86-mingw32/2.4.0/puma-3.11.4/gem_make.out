@@ -1,0 +1,22 @@
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/puma-3.11.4/ext/puma_http11
+C:/Ruby24/bin/ruby.exe -r ./siteconf20180703-13756-10k2w03.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/puma-3.11.4/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/puma-3.11.4/ext/puma_http11
+make "DESTDIR="
+generating puma_http11-i386-mingw32.def
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.so
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/puma-3.11.4/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20180703-13756-nup2s0/puma

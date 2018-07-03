@@ -1,0 +1,14 @@
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+C:/Ruby24/bin/ruby.exe -r ./siteconf20180703-13756-1keq8gs.rb extconf.rb
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/test/rails_apps0703/HerokuApp/vendor/bundle/ruby/2.4.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" install
+make: 'install' に対して行うべき事はありません.
